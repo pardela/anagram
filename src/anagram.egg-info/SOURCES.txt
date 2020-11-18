@@ -1,0 +1,6 @@
+setup.py
+src/anagram.egg-info/PKG-INFO
+src/anagram.egg-info/SOURCES.txt
+src/anagram.egg-info/dependency_links.txt
+src/anagram.egg-info/requires.txt
+src/anagram.egg-info/top_level.txt
